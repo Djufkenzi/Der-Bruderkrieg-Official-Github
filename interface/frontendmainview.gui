@@ -298,7 +298,7 @@ guiTypes = {
 		instantTextBoxType = {
 
 			name ="version_label"
-			position = { x = 57 y = 656 }
+			position = { x = 57 y = 606 }
 			textureFile = ""
 			font = "hoi_16typewriter"
 			borderSize = {x = 0 y = 0}
